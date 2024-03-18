@@ -1,2 +1,2 @@
-# TimeSeriesAnalysis
+First, I filtered the received data, made 1 table, cleaned up the data with problems. After that, for my convenience, I divided the data into 3 tables: Customer, Date_ship, and Product. In each of these tables, I left a column for which I will configure the Primary Key and Foreign Key. After that, I transferred the 3 tables to Mysql and configured the keys and gave the columns the necessary data types. And then I started my analysis. The initial tables I received are in the files. 
  
